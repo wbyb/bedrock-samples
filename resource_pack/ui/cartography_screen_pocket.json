@@ -376,7 +376,7 @@
   "inventory_scroll_panel@common.container_scroll_panel": {
     "$scrolling_content": "common.pocket_container_grid"
   },
-
+/* FIX: cartography.stone_button, cartography.scroll_panel
   "pattern_button@cartography.stone_button": {
     "size": [ 28, 28 ],
     "$item_renderer_panel_size": [ 28, 28 ],
@@ -386,7 +386,7 @@
   "pattern_scroll_panel@cartography.scroll_panel": {
     "$grid_item_template": "cartography_pocket.pattern_button"
   },
-
+ */
   "left_panel": {
     "type": "stack_panel",
     "size": [ "fill", "100%" ],

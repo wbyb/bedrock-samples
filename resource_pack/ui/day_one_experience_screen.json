@@ -489,7 +489,8 @@
     ]
   },
 
-  "advanced_worlds_screen@day_one_experience": {
+  "advanced_worlds_screen": {
+//"advanced_worlds_screen@day_one_experience": { FIX: day_one_experience.day_one_experience
     "type": "stack_panel",
     "size": [ "60%", "70%" ],
     "orientation": "vertical",

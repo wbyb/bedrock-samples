@@ -1341,7 +1341,8 @@
     ]
   },
 
-  "frame_label@invite.label": {
+  "frame_label": {
+//"frame_label@invite.label": { FIX: invite.label
     "type": "label",
     "anchor_from": "top_left",
     "anchor_to": "top_left",
