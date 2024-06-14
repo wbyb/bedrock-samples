@@ -4203,7 +4203,8 @@
     "size": [ "100%sm + 10px", 14 ]
   },
 
-  "tag_button_panel@pdp.tag": {
+  "tag_button_panel": {
+//"tag_button_panel@pdp.tag": { FIX: pdp.tag
     "type": "panel",
     "size": [ "100%cm + 2px", 15 ],
     "$pressed_button_name": "button.tag",
